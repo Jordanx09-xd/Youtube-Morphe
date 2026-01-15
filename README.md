@@ -1,8 +1,8 @@
 # YouTube Morphe
 
-A personal YouTube Morphe root module providing an ad-free experience with background playback and a true AMOLED Black interface.
+A personal YouTube root module providing an ad-free experience, background playback, and a true AMOLED Black interface.
 
-This project is maintained for personal and community use and is distributed as a flashable module for Magisk and KernelSU.
+This module is built using the **Morphe patching manager** and is packaged and maintained independently as a flashable module for Magisk and KernelSU.
 
 ---
 
@@ -10,8 +10,8 @@ This project is maintained for personal and community use and is distributed as 
 - Ad-free playback
 - Background & Picture-in-Picture support
 - True AMOLED Black UI
-- Stable and lightweight configuration
-- Clean integration with system root managers
+- Clean and stable configuration for daily use
+- Root-based installation via Magisk or KernelSU
 
 ---
 
@@ -19,39 +19,45 @@ This project is maintained for personal and community use and is distributed as 
 - Magisk
 - KernelSU
 
-> Works on AOSP-based and custom ROMs.
+> Compatible with AOSP-based and custom ROMs.
 
 ---
 
 ## Installation
-1. Remove or uninstall existing YouTube updates.
-2. Download the latest module ZIP from the Releases section.
-3. Flash the module via Magisk or KernelSU.
-4. Reboot your device.
+1. Uninstall existing YouTube updates (if installed as a system app).
+2. Download the latest module ZIP from the **Releases** section.
+3. Flash the module using Magisk or KernelSU.
+4. Reboot the device.
 
 ---
 
 ## Updating
-- Updates are provided through GitHub Releases.
-- Supported root managers will notify when an update is available.
-- Flash the new version over the existing one and reboot.
+- Updates are distributed through **GitHub Releases**.
+- Supported root managers will notify users when an update is available.
+- Flash the updated module over the existing installation and reboot.
+
+---
+
+## Credits
+- **Morphe Project** – for providing the patching manager used to build the YouTube application  
+  https://github.com/morpheapp
 
 ---
 
 ## Notes
 - This is a personal build maintained independently.
-- Stability is prioritized over frequent updates.
-- Report issues only after clean flashing and reboot.
+- Updates are released based on stability and patch compatibility.
+- Please ensure a clean flash when reporting issues.
 
 ---
 
 ## Disclaimer
-This module is provided for educational and personal use.
-YouTube and related trademarks belong to Google LLC.
-No affiliation or endorsement is implied.
+This project is not affiliated with Google, YouTube, or the Morphe project.
+All trademarks, logos, and names belong to their respective owners.
+
+This module is provided for educational and personal use only.
 
 ---
 
 ## Maintainer
-Telegram: @Jordanx_09
-
+Telegram: **@Jordanx_09**
