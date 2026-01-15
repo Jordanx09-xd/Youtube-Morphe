@@ -53,4 +53,5 @@ No affiliation or endorsement is implied.
 ---
 
 ## Maintainer
-@Jordanx_09
+Telegram: @Jordanx_09
+
