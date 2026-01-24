@@ -1,5 +1,18 @@
 # Changelog
 
+## v21.03.36
+* **Base Update**: Updated YouTube base to v21.03.36
+* **Patch**: Merged latest ReVanced/Morphe patches
+* **Theme**: Refined AMOLED Black interface
+* **Fixes**:
+    * Improved startup speed
+    * Fixed layout glitches
+    * Enhanced KernelSU compatibility
+
+---
+
+# Changelog
+
 ## v21.03.34
 * **Base Update**: Updated YouTube base to v21.03.34
 * **Theme**: Improved AMOLED Black UI consistency
