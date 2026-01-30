@@ -1,5 +1,18 @@
 # Changelog
 
+## v21.04.222
+* **Base Update**: Updated YouTube base to v21.04.222
+* **Patch**: Merged latest Morphe patches
+* **Fixes**:
+    * Improved background playback reliability
+    * Fixed scrolling jitters
+    * Optimized for latest Magisk/KSU versions
+
+---
+
+
+# Changelog
+
 ## v21.03.36
 * **Base Update**: Updated YouTube base to v21.03.36
 * **Patch**: Merged latest ReVanced/Morphe patches
