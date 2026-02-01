@@ -1,5 +1,16 @@
 # Changelog
 
+## v21.04.223
+* **Base Update**: Updated YouTube base to v21.04.223
+* **Fixes**:
+    * Improved 4K video playback stability
+    * Resolved fingerprint mismatch issues on certain setups
+    * General optimization for rooted users
+
+---
+
+# Changelog
+
 ## v21.04.222
 * **Base Update**: Updated YouTube base to v21.04.222
 * **Patch**: Merged latest Morphe patches
